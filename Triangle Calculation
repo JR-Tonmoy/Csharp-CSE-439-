@@ -1,1 +1,28 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _21.Peogram
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double baseLength, height, triangleArea;
+
+            Console.WriteLine("Triangle Area Calculation");
+
+            Console.Write("Base=");
+            baseLength = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Height=");
+            height = Convert.ToDouble(Console.ReadLine());
+
+            triangleArea = 0.5 * baseLength * height;
+            Console.Write($"Triangle Area is :{triangleArea}");
+        }
+    }
+}
 
