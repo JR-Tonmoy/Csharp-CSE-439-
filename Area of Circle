@@ -13,7 +13,7 @@ namespace _22.Area_of_circle
             double radius, circleArea;
             Console.WriteLine("Circle Area Calculator");
 
-            Console.WriteLine("radius=");
+            Console.Write("radius=");
             radius = Convert.ToInt16(Console.ReadLine());
 
             circleArea = 3.1416 * radius * radius;
