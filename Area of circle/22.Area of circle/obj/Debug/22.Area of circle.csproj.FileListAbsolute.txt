@@ -1,0 +1,7 @@
+D:\First\3rd\22.Area of circle\22.Area of circle\bin\Debug\22.Area of circle.exe.config
+D:\First\3rd\22.Area of circle\22.Area of circle\bin\Debug\22.Area of circle.exe
+D:\First\3rd\22.Area of circle\22.Area of circle\bin\Debug\22.Area of circle.pdb
+D:\First\3rd\22.Area of circle\22.Area of circle\obj\Debug\22.Area of circle.csproj.AssemblyReference.cache
+D:\First\3rd\22.Area of circle\22.Area of circle\obj\Debug\22.Area of circle.csproj.CoreCompileInputs.cache
+D:\First\3rd\22.Area of circle\22.Area of circle\obj\Debug\22.Area of circle.exe
+D:\First\3rd\22.Area of circle\22.Area of circle\obj\Debug\22.Area of circle.pdb
