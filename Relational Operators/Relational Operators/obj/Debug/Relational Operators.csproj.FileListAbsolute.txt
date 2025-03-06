@@ -1,0 +1,7 @@
+D:\First\3rd\Relational Operators\Relational Operators\bin\Debug\Relational Operators.exe.config
+D:\First\3rd\Relational Operators\Relational Operators\bin\Debug\Relational Operators.exe
+D:\First\3rd\Relational Operators\Relational Operators\bin\Debug\Relational Operators.pdb
+D:\First\3rd\Relational Operators\Relational Operators\obj\Debug\Relational Operators.csproj.AssemblyReference.cache
+D:\First\3rd\Relational Operators\Relational Operators\obj\Debug\Relational Operators.csproj.CoreCompileInputs.cache
+D:\First\3rd\Relational Operators\Relational Operators\obj\Debug\Relational Operators.exe
+D:\First\3rd\Relational Operators\Relational Operators\obj\Debug\Relational Operators.pdb
