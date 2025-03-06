@@ -1,0 +1,7 @@
+D:\First\3rd\Assignment Operators\Assignment Operators\bin\Debug\Assignment Operators.exe.config
+D:\First\3rd\Assignment Operators\Assignment Operators\bin\Debug\Assignment Operators.exe
+D:\First\3rd\Assignment Operators\Assignment Operators\bin\Debug\Assignment Operators.pdb
+D:\First\3rd\Assignment Operators\Assignment Operators\obj\Debug\Assignment Operators.csproj.AssemblyReference.cache
+D:\First\3rd\Assignment Operators\Assignment Operators\obj\Debug\Assignment Operators.csproj.CoreCompileInputs.cache
+D:\First\3rd\Assignment Operators\Assignment Operators\obj\Debug\Assignment Operators.exe
+D:\First\3rd\Assignment Operators\Assignment Operators\obj\Debug\Assignment Operators.pdb
