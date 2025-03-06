@@ -1,0 +1,7 @@
+D:\First\3rd\Celsius to F\Celsius to F\bin\Debug\Celsius to F.exe.config
+D:\First\3rd\Celsius to F\Celsius to F\bin\Debug\Celsius to F.exe
+D:\First\3rd\Celsius to F\Celsius to F\bin\Debug\Celsius to F.pdb
+D:\First\3rd\Celsius to F\Celsius to F\obj\Debug\Celsius to F.csproj.AssemblyReference.cache
+D:\First\3rd\Celsius to F\Celsius to F\obj\Debug\Celsius to F.csproj.CoreCompileInputs.cache
+D:\First\3rd\Celsius to F\Celsius to F\obj\Debug\Celsius to F.exe
+D:\First\3rd\Celsius to F\Celsius to F\obj\Debug\Celsius to F.pdb
