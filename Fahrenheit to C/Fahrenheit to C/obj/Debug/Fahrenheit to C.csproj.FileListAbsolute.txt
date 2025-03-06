@@ -1,0 +1,7 @@
+D:\First\3rd\Fahrenheit to C\Fahrenheit to C\bin\Debug\Fahrenheit to C.exe.config
+D:\First\3rd\Fahrenheit to C\Fahrenheit to C\bin\Debug\Fahrenheit to C.exe
+D:\First\3rd\Fahrenheit to C\Fahrenheit to C\bin\Debug\Fahrenheit to C.pdb
+D:\First\3rd\Fahrenheit to C\Fahrenheit to C\obj\Debug\Fahrenheit to C.csproj.AssemblyReference.cache
+D:\First\3rd\Fahrenheit to C\Fahrenheit to C\obj\Debug\Fahrenheit to C.csproj.CoreCompileInputs.cache
+D:\First\3rd\Fahrenheit to C\Fahrenheit to C\obj\Debug\Fahrenheit to C.exe
+D:\First\3rd\Fahrenheit to C\Fahrenheit to C\obj\Debug\Fahrenheit to C.pdb
