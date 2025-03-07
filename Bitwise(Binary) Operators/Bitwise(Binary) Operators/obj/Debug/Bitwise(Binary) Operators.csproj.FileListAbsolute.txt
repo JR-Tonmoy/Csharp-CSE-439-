@@ -1,0 +1,7 @@
+D:\First\3rd\Bitwise(Binary) Operators\Bitwise(Binary) Operators\bin\Debug\Bitwise(Binary) Operators.exe.config
+D:\First\3rd\Bitwise(Binary) Operators\Bitwise(Binary) Operators\bin\Debug\Bitwise(Binary) Operators.exe
+D:\First\3rd\Bitwise(Binary) Operators\Bitwise(Binary) Operators\bin\Debug\Bitwise(Binary) Operators.pdb
+D:\First\3rd\Bitwise(Binary) Operators\Bitwise(Binary) Operators\obj\Debug\Bitwise(Binary) Operators.csproj.AssemblyReference.cache
+D:\First\3rd\Bitwise(Binary) Operators\Bitwise(Binary) Operators\obj\Debug\Bitwise(Binary) Operators.csproj.CoreCompileInputs.cache
+D:\First\3rd\Bitwise(Binary) Operators\Bitwise(Binary) Operators\obj\Debug\Bitwise(Binary) Operators.exe
+D:\First\3rd\Bitwise(Binary) Operators\Bitwise(Binary) Operators\obj\Debug\Bitwise(Binary) Operators.pdb
