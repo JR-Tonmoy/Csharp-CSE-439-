@@ -1,0 +1,7 @@
+D:\First\3rd\Large number-Small number\Large number-Small number\bin\Debug\Large number-Small number.exe.config
+D:\First\3rd\Large number-Small number\Large number-Small number\bin\Debug\Large number-Small number.exe
+D:\First\3rd\Large number-Small number\Large number-Small number\bin\Debug\Large number-Small number.pdb
+D:\First\3rd\Large number-Small number\Large number-Small number\obj\Debug\Large number-Small number.csproj.AssemblyReference.cache
+D:\First\3rd\Large number-Small number\Large number-Small number\obj\Debug\Large number-Small number.csproj.CoreCompileInputs.cache
+D:\First\3rd\Large number-Small number\Large number-Small number\obj\Debug\Large number-Small number.exe
+D:\First\3rd\Large number-Small number\Large number-Small number\obj\Debug\Large number-Small number.pdb
