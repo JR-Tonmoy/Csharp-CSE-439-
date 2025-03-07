@@ -1,0 +1,7 @@
+D:\First\3rd\Unary Operators\Unary Operators\bin\Debug\Unary Operators.exe.config
+D:\First\3rd\Unary Operators\Unary Operators\bin\Debug\Unary Operators.exe
+D:\First\3rd\Unary Operators\Unary Operators\bin\Debug\Unary Operators.pdb
+D:\First\3rd\Unary Operators\Unary Operators\obj\Debug\Unary Operators.csproj.AssemblyReference.cache
+D:\First\3rd\Unary Operators\Unary Operators\obj\Debug\Unary Operators.csproj.CoreCompileInputs.cache
+D:\First\3rd\Unary Operators\Unary Operators\obj\Debug\Unary Operators.exe
+D:\First\3rd\Unary Operators\Unary Operators\obj\Debug\Unary Operators.pdb
