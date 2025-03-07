@@ -1,0 +1,7 @@
+D:\First\3rd\Ternary Operators\Ternary Operators\bin\Debug\Ternary Operators.exe.config
+D:\First\3rd\Ternary Operators\Ternary Operators\bin\Debug\Ternary Operators.exe
+D:\First\3rd\Ternary Operators\Ternary Operators\bin\Debug\Ternary Operators.pdb
+D:\First\3rd\Ternary Operators\Ternary Operators\obj\Debug\Ternary Operators.csproj.AssemblyReference.cache
+D:\First\3rd\Ternary Operators\Ternary Operators\obj\Debug\Ternary Operators.csproj.CoreCompileInputs.cache
+D:\First\3rd\Ternary Operators\Ternary Operators\obj\Debug\Ternary Operators.exe
+D:\First\3rd\Ternary Operators\Ternary Operators\obj\Debug\Ternary Operators.pdb
