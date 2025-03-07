@@ -1,0 +1,7 @@
+D:\First\3rd\Digit spelling using if,else\Digit spelling using if,else\bin\Debug\Digit spelling using if,else.exe.config
+D:\First\3rd\Digit spelling using if,else\Digit spelling using if,else\bin\Debug\Digit spelling using if,else.exe
+D:\First\3rd\Digit spelling using if,else\Digit spelling using if,else\bin\Debug\Digit spelling using if,else.pdb
+D:\First\3rd\Digit spelling using if,else\Digit spelling using if,else\obj\Debug\Digit spelling using if,else.csproj.AssemblyReference.cache
+D:\First\3rd\Digit spelling using if,else\Digit spelling using if,else\obj\Debug\Digit spelling using if,else.csproj.CoreCompileInputs.cache
+D:\First\3rd\Digit spelling using if,else\Digit spelling using if,else\obj\Debug\Digit spelling using if,else.exe
+D:\First\3rd\Digit spelling using if,else\Digit spelling using if,else\obj\Debug\Digit spelling using if,else.pdb
