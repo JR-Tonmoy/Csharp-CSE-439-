@@ -1,0 +1,7 @@
+D:\First\3rd\Even or Odd\Even or Odd\bin\Debug\Even or Odd.exe.config
+D:\First\3rd\Even or Odd\Even or Odd\bin\Debug\Even or Odd.exe
+D:\First\3rd\Even or Odd\Even or Odd\bin\Debug\Even or Odd.pdb
+D:\First\3rd\Even or Odd\Even or Odd\obj\Debug\Even or Odd.csproj.AssemblyReference.cache
+D:\First\3rd\Even or Odd\Even or Odd\obj\Debug\Even or Odd.csproj.CoreCompileInputs.cache
+D:\First\3rd\Even or Odd\Even or Odd\obj\Debug\Even or Odd.exe
+D:\First\3rd\Even or Odd\Even or Odd\obj\Debug\Even or Odd.pdb
