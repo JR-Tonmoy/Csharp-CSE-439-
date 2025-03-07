@@ -1,0 +1,7 @@
+D:\First\3rd\Vowel-consonant Program\Vowel-consonant Program\bin\Debug\Vowel-consonant Program.exe.config
+D:\First\3rd\Vowel-consonant Program\Vowel-consonant Program\bin\Debug\Vowel-consonant Program.exe
+D:\First\3rd\Vowel-consonant Program\Vowel-consonant Program\bin\Debug\Vowel-consonant Program.pdb
+D:\First\3rd\Vowel-consonant Program\Vowel-consonant Program\obj\Debug\Vowel-consonant Program.csproj.AssemblyReference.cache
+D:\First\3rd\Vowel-consonant Program\Vowel-consonant Program\obj\Debug\Vowel-consonant Program.csproj.CoreCompileInputs.cache
+D:\First\3rd\Vowel-consonant Program\Vowel-consonant Program\obj\Debug\Vowel-consonant Program.exe
+D:\First\3rd\Vowel-consonant Program\Vowel-consonant Program\obj\Debug\Vowel-consonant Program.pdb
