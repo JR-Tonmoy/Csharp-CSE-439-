@@ -1,0 +1,7 @@
+D:\First\3rd\Capital -Small Letter Program\Capital -Small Letter Program\bin\Debug\Capital -Small Letter Program.exe.config
+D:\First\3rd\Capital -Small Letter Program\Capital -Small Letter Program\bin\Debug\Capital -Small Letter Program.exe
+D:\First\3rd\Capital -Small Letter Program\Capital -Small Letter Program\bin\Debug\Capital -Small Letter Program.pdb
+D:\First\3rd\Capital -Small Letter Program\Capital -Small Letter Program\obj\Debug\Capital -Small Letter Program.csproj.AssemblyReference.cache
+D:\First\3rd\Capital -Small Letter Program\Capital -Small Letter Program\obj\Debug\Capital -Small Letter Program.csproj.CoreCompileInputs.cache
+D:\First\3rd\Capital -Small Letter Program\Capital -Small Letter Program\obj\Debug\Capital -Small Letter Program.exe
+D:\First\3rd\Capital -Small Letter Program\Capital -Small Letter Program\obj\Debug\Capital -Small Letter Program.pdb
