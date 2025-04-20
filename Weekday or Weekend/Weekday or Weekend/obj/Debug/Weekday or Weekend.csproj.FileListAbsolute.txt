@@ -1,0 +1,7 @@
+D:\First\3rd\Weekday or Weekend\Weekday or Weekend\bin\Debug\Weekday or Weekend.exe.config
+D:\First\3rd\Weekday or Weekend\Weekday or Weekend\bin\Debug\Weekday or Weekend.exe
+D:\First\3rd\Weekday or Weekend\Weekday or Weekend\bin\Debug\Weekday or Weekend.pdb
+D:\First\3rd\Weekday or Weekend\Weekday or Weekend\obj\Debug\Weekday or Weekend.csproj.AssemblyReference.cache
+D:\First\3rd\Weekday or Weekend\Weekday or Weekend\obj\Debug\Weekday or Weekend.csproj.CoreCompileInputs.cache
+D:\First\3rd\Weekday or Weekend\Weekday or Weekend\obj\Debug\Weekday or Weekend.exe
+D:\First\3rd\Weekday or Weekend\Weekday or Weekend\obj\Debug\Weekday or Weekend.pdb
