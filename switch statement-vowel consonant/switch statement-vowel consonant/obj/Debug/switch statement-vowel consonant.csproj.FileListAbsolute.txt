@@ -1,0 +1,7 @@
+D:\First\3rd\switch statement-vowel consonant\switch statement-vowel consonant\bin\Debug\switch statement-vowel consonant.exe.config
+D:\First\3rd\switch statement-vowel consonant\switch statement-vowel consonant\bin\Debug\switch statement-vowel consonant.exe
+D:\First\3rd\switch statement-vowel consonant\switch statement-vowel consonant\bin\Debug\switch statement-vowel consonant.pdb
+D:\First\3rd\switch statement-vowel consonant\switch statement-vowel consonant\obj\Debug\switch statement-vowel consonant.csproj.AssemblyReference.cache
+D:\First\3rd\switch statement-vowel consonant\switch statement-vowel consonant\obj\Debug\switch statement-vowel consonant.csproj.CoreCompileInputs.cache
+D:\First\3rd\switch statement-vowel consonant\switch statement-vowel consonant\obj\Debug\switch statement-vowel consonant.exe
+D:\First\3rd\switch statement-vowel consonant\switch statement-vowel consonant\obj\Debug\switch statement-vowel consonant.pdb
